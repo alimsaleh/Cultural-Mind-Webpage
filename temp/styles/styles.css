@@ -111,7 +111,7 @@ button:focus{
     right: 0;
     top: 0;
     bottom: 0;
-    background-color: rgba(5, 180, 249, .9);
+    background-color: rgba(84, 84, 84, 0.69);
     z-index: -1;
   }
 
@@ -145,7 +145,7 @@ button:focus{
   }
 
 .header__content__paragraph{
-    font-size: 22px;
+    font-size: 16px;
     color: #f8f8f8;
     max-width: 530px;
     margin-right: auto;
@@ -291,7 +291,7 @@ button:focus{
   }
 
 .service__paragraph{
-    font-size: 16px;
+    font-size: 15px;
     color: #8a8a8a;
   }
 
@@ -378,7 +378,7 @@ button:focus{
       }
 
 .page-section__paragraph{
-    font-size: 18px;
+    font-size: 16px;
     color: #7d7d7d;
     max-width: 590px;
     margin-right: auto;
@@ -401,7 +401,7 @@ button:focus{
 .contact--bg{
     -webkit-clip-path: polygon(0 32%, 100% 10%, 100% 100%, 0% 100%);
             clip-path: polygon(0 32%, 100% 10%, 100% 100%, 0% 100%);
-    background: url("../../assets/images/contact-us-background.png") no-repeat;
+    background: url("../../assets/images/contact-us-background.jpeg") no-repeat;
     height: 430px;
     position: relative;
     background-size: cover;
@@ -436,7 +436,7 @@ button:focus{
       right: 0;
       top: 0;
       bottom: 0;
-      background-color: rgba(5, 180, 249, .9);
+      background-color: rgba(84, 84, 84, 0.69);
       z-index: -1;
     }
 
@@ -511,7 +511,7 @@ button:focus{
       right: 0;
       top: 0;
       bottom: 0;
-      background-color: rgba(5, 180, 249, .9);
+      background-color: rgba(84, 84, 84, 0.69);
       z-index: -1;
     }
 
@@ -594,7 +594,7 @@ button:focus{
       right: 0;
       top: 0;
       bottom: 0;
-      background-color: rgba(5, 180, 249, .9);
+      background-color: rgba(84, 84, 84, 0.69);
       z-index: -1;
     }
 
@@ -766,7 +766,7 @@ button:focus{
       right: 0;
       top: 0;
       bottom: 0;
-      background-color: rgba(5, 180, 249, .9);
+      background-color: rgba(84, 84, 84, 0.69);
       z-index: -1;
     }
 
@@ -911,7 +911,7 @@ button:focus{
       right: 0;
       top: 0;
       bottom: 0;
-      background-color: rgba(5, 180, 249, .9);
+      background-color: rgba(84, 84, 84, 0.69);
       z-index: -1;
     }
 
